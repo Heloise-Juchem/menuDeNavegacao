@@ -23,3 +23,8 @@ a{
     color:black;
 }
 
+a:hover{
+    border-bottom:2px solid black;
+    font-size: 20pt;
+
+}
