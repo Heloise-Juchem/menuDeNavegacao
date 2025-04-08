@@ -34,3 +34,8 @@ height: 100%;
 background-color: rgb(94, 151, 151);
 text-align: center;
 }
+
+img{
+    width: 16px;
+    height: 16px;
+}
